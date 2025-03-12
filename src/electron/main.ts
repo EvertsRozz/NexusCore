@@ -3,8 +3,8 @@ import path from "path";
 
 app.whenReady().then(() => {
   const mainWindow = new BrowserWindow({
-    width: 800,
-    height: 600,
+    width: 1000,
+    height: 800,
     webPreferences: {
       nodeIntegration: true,
     },
