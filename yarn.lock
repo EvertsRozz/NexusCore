@@ -1888,6 +1888,11 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
+systeminformation@^5.25.11:
+  version "5.25.11"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.25.11.tgz#7d47a14dafbc9cf6c21bc02d19a2121a8c770d88"
+  integrity sha512-jI01fn/t47rrLTQB0FTlMCC+5dYx8o0RRF+R4BPiUNsvg5OdY0s9DKMFmJGrx5SwMZQ4cag0Gl6v8oycso9b/g==
+
 tailwindcss@4.0.13, tailwindcss@^4.0.13:
   version "4.0.13"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.0.13.tgz#093935db2e4b80d245386f69da580528ac5b1b3c"
