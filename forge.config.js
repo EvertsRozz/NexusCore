@@ -9,12 +9,11 @@ module.exports = {
   makers: [
     {
       name: "@electron-forge/maker-squirrel",
-      platforms: ["win32"],
       config: {},
     },
     {
       name: "@electron-forge/maker-zip",
-      platforms: ["darwin"],
+      platforms: ["darwin", "win32"],
     },
     {
       name: "@electron-forge/maker-deb",
